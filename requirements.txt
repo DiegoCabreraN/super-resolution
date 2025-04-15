@@ -1,8 +1,0 @@
-basicsr==1.4.2
-numpy==1.26.0
-nvidia-ml-py==12.570.86
-onnx==1.17.0
-onnxruntime-gpu==1.18.0
-opencv-python==4.11.0.86
-pillow==11.2.1
-streamlit==1.44.1
