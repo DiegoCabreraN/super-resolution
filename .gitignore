@@ -1,0 +1,10 @@
+# ignored folders
+model/weights/*
+model/optimizations/*
+
+*.mp4
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
